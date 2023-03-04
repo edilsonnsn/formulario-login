@@ -97,13 +97,18 @@ footer ul{
    justify-content: center;
    padding: 15px;
    display: flex;
-   
-  
 }
 
 #rodapeimg{
     display: flex;
-     width: 150px;
+    width: 150px;
     justify-content: center;
-   
 }
+
+#cadastro h2{
+    margin: 10px 15px; 
+    text-align: center; 
+    
+}
+
+
